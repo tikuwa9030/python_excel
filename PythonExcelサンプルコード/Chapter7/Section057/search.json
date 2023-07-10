@@ -1,0 +1,423 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Python",
+        "totalResults": "47200000",
+        "searchTerms": "Python",
+        "count": 10,
+        "startIndex": 1,
+        "language": "lang_ja",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "012319138886568607092:suguhbosrzi"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Python",
+        "totalResults": "47200000",
+        "searchTerms": "Python",
+        "count": 10,
+        "startIndex": 11,
+        "language": "lang_ja",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "012319138886568607092:suguhbosrzi"
+      }
+    ]
+  },
+  "context": {
+    "title": "ウェブ検索エンジン"
+  },
+  "searchInformation": {
+    "searchTime": 0.629239,
+    "formattedSearchTime": "0.63",
+    "totalResults": "47200000",
+    "formattedTotalResults": "47,200,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Python言語",
+      "htmlTitle": "<b>Python</b>言語",
+      "link": "https://ja.wikipedia.org/wiki/Python",
+      "displayLink": "ja.wikipedia.org",
+      "snippet": "Python（パイソン）は、汎用のプログラミング言語である。コードがシンプルで扱いやすく\n設計されており、C言語などに比べて、さまざまなプログラムを分かりやすく、少ない\nコード行数で書けるといった特徴がある。",
+      "htmlSnippet": "<b>Python</b>（パイソン）は、汎用のプログラミング言語である。コードがシンプルで扱いやすく<br>\n設計されており、C言語などに比べて、さまざまなプログラムを分かりやすく、少ない<br>\nコード行数で書けるといった特徴がある。",
+      "cacheId": "9Mi4sOA3flwJ",
+      "formattedUrl": "https://ja.wikipedia.org/wiki/Python",
+      "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/<b>Python</b>",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python チュートリアル — Python 3.8.3 ドキュメント",
+      "htmlTitle": "<b>Python</b> チュートリアル — <b>Python</b> 3.8.3 ドキュメント",
+      "link": "https://docs.python.org/ja/3/tutorial/",
+      "displayLink": "docs.python.org",
+      "snippet": "また、Python Web サイトには、無料のサードパーティモジュールやプログラム、ツール、\nドキュメントなども紹介しています。 Python インタプリタは、簡単に C/C++ 言語などで\n実装された関数やデータ型を組み込み、拡張できます。また、アプリケーション ...",
+      "htmlSnippet": "また、<b>Python</b> Web サイトには、無料のサードパーティモジュールやプログラム、ツール、<br>\nドキュメントなども紹介しています。 <b>Python</b> インタプリタは、簡単に C/C++ 言語などで<br>\n実装された関数やデータ型を組み込み、拡張できます。また、アプリケーション&nbsp;...",
+      "cacheId": "rtOpEIZQh_MJ",
+      "formattedUrl": "https://docs.python.org/ja/3/tutorial/",
+      "htmlFormattedUrl": "https://docs.<b>python</b>.org/ja/3/tutorial/"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Jobs - Stack Overflow",
+      "htmlTitle": "<b>Python</b> Jobs - Stack Overflow",
+      "link": "https://stackoverflow.com/jobs/developer-jobs-using-python",
+      "displayLink": "stackoverflow.com",
+      "snippet": "Find and apply to Python Jobs on Stack Overflow Jobs. Research and compare \ndeveloper jobs from top companies by compensation, tech stack, perks and more\n!",
+      "htmlSnippet": "Find and apply to <b>Python</b> Jobs on Stack Overflow Jobs. Research and compare <br>\ndeveloper jobs from top companies by compensation, tech stack, perks and more<br>\n!",
+      "cacheId": "4X9PrhUyg6sJ",
+      "formattedUrl": "https://stackoverflow.com/jobs/developer-jobs-using-python",
+      "htmlFormattedUrl": "https://stackoverflow.com/jobs/developer-jobs-using-<b>python</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-X24dPxfCxHMPVbV38_fxyrs2jFdnUagmd1mWFVC6yRhk66wzlf9FleE",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/careers/Img/social/OG_Facebook_Jobs_home.png?v=37b55fc72141",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Stack Overflow Jobs",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "og:site_name": "Stack Overflow",
+            "og:title": "Stack Overflow Jobs",
+            "og:image:height": "628",
+            "og:image:type": "image/png",
+            "twitter:creator": "@StackDevJobs",
+            "og:description": "Find and apply to Python Jobs on Stack Overflow Jobs. Research and compare developer jobs from top companies by compensation, tech stack, perks and more!",
+            "twitter:image": "https://cdn.sstatic.net/careers/Img/social/OG_Twitter_Jobs_Home.png?v=94493df6e998",
+            "twitter:site": "@StackDevJobs",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+            "twitter:description": "Find and apply to Python Jobs on Stack Overflow Jobs. Research and compare developer jobs from top companies by compensation, tech stack, perks and more!",
+            "og:url": "https://stackoverflow.com/jobs"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/careers/Img/social/OG_Facebook_Jobs_home.png?v=37b55fc72141"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Docs",
+      "htmlTitle": "<b>Python</b> Docs",
+      "link": "https://docs.python.org/ja/",
+      "displayLink": "docs.python.org",
+      "snippet": "言語リファレンス 構文と言語要素の解説. Python のセットアップと利用 各\nプラットフォームでの Python の使い方. Python HOWTO 特定のトピックに関する、より\n深いドキュメント. Python モジュールのインストール. Python Package Index などから\nのインストール.",
+      "htmlSnippet": "言語リファレンス 構文と言語要素の解説. <b>Python</b> のセットアップと利用 各<br>\nプラットフォームでの <b>Python</b> の使い方. <b>Python</b> HOWTO 特定のトピックに関する、より<br>\n深いドキュメント. <b>Python</b> モジュールのインストール. <b>Python</b> Package Index などから<br>\nのインストール.",
+      "cacheId": "yPo4_IOs6usJ",
+      "formattedUrl": "https://docs.python.org/ja/",
+      "htmlFormattedUrl": "https://docs.<b>python</b>.org/ja/"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "プログラミング言語 Python",
+      "htmlTitle": "プログラミング言語 <b>Python</b>",
+      "link": "https://www.python.jp/",
+      "displayLink": "www.python.jp",
+      "snippet": "DjangoCongress JP 2019はPython製WebフレームワークDjangoをテーマにした\n日本最大級のイベントです。 去年のDjangoCongress JP 2018に続いて、今年も\nDjangoメインのカンファレンスを開催します。 Djangoは日本でも利用者の多いPython\n ...",
+      "htmlSnippet": "DjangoCongress JP 2019は<b>Python</b>製WebフレームワークDjangoをテーマにした<br>\n日本最大級のイベントです。 去年のDjangoCongress JP 2018に続いて、今年も<br>\nDjangoメインのカンファレンスを開催します。 Djangoは日本でも利用者の多い<b>Python</b><br>\n&nbsp;...",
+      "cacheId": "oFYEntitrZcJ",
+      "formattedUrl": "https://www.python.jp/",
+      "htmlFormattedUrl": "https://www.<b>python</b>.jp/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Top - python.jp",
+            "og:locale": "ja",
+            "og:url": "https://www.python.jp/index.html",
+            "og:description": "プログラミング言語 Python"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "プログラミング言語「Python」の人気が止まらない理由とは？ 人気 ...",
+      "htmlTitle": "プログラミング言語「<b>Python</b>」の人気が止まらない理由とは？ 人気 ...",
+      "link": "https://wired.jp/2020/04/30/python-language-more-popular-than-ever/",
+      "displayLink": "wired.jp",
+      "snippet": "2020年4月30日 ... プログラミング言語「Python」の人気が高まっている。最新のプログラミング言語人気\nランキングで2位タイへと順位を上げ、その万能性ゆえにJavaScriptに次ぐ人気言語に\nなった.",
+      "htmlSnippet": "2020年4月30日 <b>...</b> プログラミング言語「<b>Python</b>」の人気が高まっている。最新のプログラミング言語人気<br>\nランキングで2位タイへと順位を上げ、その万能性ゆえにJavaScriptに次ぐ人気言語に<br>\nなった.",
+      "cacheId": "ZdOZd46VrAsJ",
+      "formattedUrl": "https://wired.jp/2020/04/30/python-language-more-popular-than-ever/",
+      "htmlFormattedUrl": "https://wired.jp/2020/04/30/<b>python</b>-language-more-popular-than-ever/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKslllcGYxgOWKEr2cIn101wtT32EEDSlT-1N91SkeDzdrSut8LZAIiNc",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://wired.jp/wp-content/uploads/2020/04/python-popularity-1024x576.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "og:site_name": "WIRED.jp",
+            "twitter:domain": "wired.jp",
+            "msvalidate.01": "3FD0E4955A9ADB600024AA8E75F759A3",
+            "og:title": "プログラミング言語「Python」の人気が止まらない理由とは？ 人気ランキングから見えてきたこと｜WIRED.jp",
+            "fb:pages": "122160027866601",
+            "twitter:creator": "@wired_jp",
+            "og:description": "プログラミング言語「Python」の人気が高まっている。最新のプログラミング言語人気ランキングで2位タイへと順位を上げ、その万能性ゆえにJavaScriptに次ぐ人気言語になった",
+            "article:publisher": "https://www.facebook.com/WIRED.jp",
+            "fb:app_id": "721425747959511",
+            "twitter:site": "@wired_jp",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "ja_JP",
+            "og:url": "https://wired.jp/2020/04/30/python-language-more-popular-than-ever/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://wired.jp/wp-content/uploads/2020/04/python-popularity-1024x576.jpg"
+          }
+        ],
+        "article": [
+          {
+            "author": "TEXT BY KLINT FINLEY TRANSLATION BY RYO OGATA/GALILEO WIRED(US)",
+            "about": "BUSINESS",
+            "name": "プログラミング言語「Python」の人気が止まらない理由とは？ 人気ランキングから見えてきたこと",
+            "description": "プログラミング言語「Python」の人気が高まっている。最新のプログラミング言語人気ランキングで2位タイへと順位を上げ、その万能性ゆえにJavaScr...",
+            "datepublished": "2020-04-30T17:00:31+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
+      "htmlTitle": "<b>Python</b> | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
+      "link": "https://prog-8.com/languages/python",
+      "displayLink": "prog-8.com",
+      "snippet": "Python. 可読性が高く、科学演算や機械学習などにも用いられるサーバーサイド言語. 0\n%. 学習コース. Python I 修了時間 1h45m. 0%. 「Python」はWebアプリケーション開発\nや機械学習、統計処理など、様々な分野で使われています。 このレッスンではPython ...",
+      "htmlSnippet": "<b>Python</b>. 可読性が高く、科学演算や機械学習などにも用いられるサーバーサイド言語. 0<br>\n%. 学習コース. <b>Python</b> I 修了時間 1h45m. 0%. 「<b>Python</b>」はWebアプリケーション開発<br>\nや機械学習、統計処理など、様々な分野で使われています。 このレッスンでは<b>Python</b>&nbsp;...",
+      "cacheId": "-kSMHXF04dcJ",
+      "formattedUrl": "https://prog-8.com/languages/python",
+      "htmlFormattedUrl": "https://prog-8.com/languages/<b>python</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3JwVjlf0r6sEu4OTONy5bIv5vHT8WJv2p5Ku8w32BCBXCHNSyPZHHn1IV",
+            "width": "287",
+            "height": "176"
+          }
+        ],
+        "metatags": [
+          {
+            "og:locale:alternative": "en_US",
+            "apple-itunes-app": "app-id=1335868128",
+            "og:image": "https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/python/study/1/1474614123957.png",
+            "og:type": "website",
+            "twitter:title": "Progate(プロゲート) | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Progate",
+            "og:title": "Progate(プロゲート) | Learn to code, learn to be creative.",
+            "twitter:name": "@progateJP",
+            "csrf-param": "authenticity_token",
+            "og:description": "Progateはオンラインでプログラミングを学べるサービスです。プログラミングを学んでWEBアプリケーションを作ろう。",
+            "twitter:creator": "@progateJP",
+            "twitter:image": "https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/python/study/1/1474614123957.png",
+            "fb:app_id": "296639803850370",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Progateはオンラインでプログラミングを学べるサービスです。プログラミングを学んでWEBアプリケーションを作ろう。",
+            "csrf-token": "JtKsC8aL1WPcVGaGF24qN+MmbYTJBTkPXWaCK4ieqc5bILVWth0M5SsFgV8+ki4+iQUaLjhsUzS8tp7pGMhZTA==",
+            "og:locale": "ja_JP",
+            "fb:admins": "100002236292373",
+            "og:url": "https://prog-8.com/languages/python"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/python/study/1/1474614123957.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "liquidtap · PyPI",
+      "htmlTitle": "liquidtap · PyPI",
+      "link": "https://pypi.org/project/liquidtap/",
+      "displayLink": "pypi.org",
+      "snippet": "Mar 1, 2019 ... QuoineFinancial/LiquidTap websocket client for Python.",
+      "htmlSnippet": "Mar 1, 2019 <b>...</b> QuoineFinancial/LiquidTap websocket client for <b>Python</b>.",
+      "cacheId": "iZL9T-Uz4-cJ",
+      "formattedUrl": "https://pypi.org/project/liquidtap/",
+      "htmlFormattedUrl": "https://pypi.org/project/liquidtap/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4CpFGnkeI32Xpmkg6r8yULvCuU3ZEY9vfrlwex5BdTtiuqEWcmb0PKxg",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "availablelanguages": "en, es, fr, ja, pt_BR, uk, el, de, zh_Hans, ru",
+            "og:image": "https://pypi.org/static/images/twitter.90915068.jpg",
+            "og:type": "website",
+            "og:site_name": "PyPI",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "liquidtap",
+            "defaultlanguage": "en",
+            "og:url": "https://pypi.org/project/liquidtap/",
+            "og:description": "QuoineFinancial/LiquidTap websocket client for Python"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pypi.org/static/images/twitter.90915068.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PyQ（パイキュー） - 本気でプログラミングを学びたい人のPython ...",
+      "htmlTitle": "PyQ（パイキュー） - 本気でプログラミングを学びたい人の<b>Python</b> ...",
+      "link": "https://pyq.jp/",
+      "displayLink": "pyq.jp",
+      "snippet": "本気でプログラミングを学びたい、プログラマーになりたいあなたへ。Pythonのオンライン\n学習サービスPyQは、初心者でも1から、ブラウザーだけで実務と同じ環境を動かして\nプログラミングを学べます。1000問以上の問題を通して、200時間の学習時間で実務的\n ...",
+      "htmlSnippet": "本気でプログラミングを学びたい、プログラマーになりたいあなたへ。<b>Python</b>のオンライン<br>\n学習サービスPyQは、初心者でも1から、ブラウザーだけで実務と同じ環境を動かして<br>\nプログラミングを学べます。1000問以上の問題を通して、200時間の学習時間で実務的<br>\n&nbsp;...",
+      "cacheId": "5M_7BTTA6UQJ",
+      "formattedUrl": "https://pyq.jp/",
+      "htmlFormattedUrl": "https://pyq.jp/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUqb3HL5YwqEFoyIyYWRzsfvCE6iVPccw_HnmxJpawHnZVIJFh3unqaz8",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://pyq.jp/static/img/logo_square_small.png",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "PyQ（パイキュー） - 本気でプログラミングを学びたい人の、Pythonオンライン学習サービス",
+            "og:site_name": "PyQ",
+            "twitter:domain": "pyq.jp",
+            "twitter:url": "https://pyq.jp/",
+            "og:title": "PyQ（パイキュー） - 本気でプログラミングを学びたい人の、Pythonオンライン学習サービス",
+            "og:description": "本気でプログラミングを学びたい、プログラマーになりたいあなたへ。Pythonのオンライン学習サービスPyQは、初心者でも1から、ブラウザーだけで実務と同じ環境を動かしてプログラミングを学べます。1000問以上の問題を通して、200時間の学習時間で実務的なプログラミングを学びます。",
+            "twitter:image": "https://pyq.jp/static/img/logo_square_small.png",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "本気でプログラミングを学びたい、プログラマーになりたいあなたへ。Pythonのオンライン学習サービスPyQは、初心者でも1から、ブラウザーだけで実務と同じ環境を動かしてプログラミングを学べます。1000問以上の問題を通して、200時間の学習時間で実務的なプログラミングを学びます。",
+            "og:url": "https://pyq.jp/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pyq.jp/static/img/logo_square_small.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "京都大学、Pythonによるプログラミング演習教材を無料公開：CodeZine ...",
+      "htmlTitle": "京都大学、<b>Python</b>によるプログラミング演習教材を無料公開：CodeZine ...",
+      "link": "https://codezine.jp/article/detail/11999",
+      "displayLink": "codezine.jp",
+      "snippet": "2020年2月20日 ... プログラミング演習の教材は、プログラミングの初学者を対象にPythonを用いた\nプログラミングを演習方式で学ぶもので、京都大学学術情報リポジトリ（KURENAI）で\n公開されている。本編のほか、横道にそれる話題をまとめたコラム編の2つの ...",
+      "htmlSnippet": "2020年2月20日 <b>...</b> プログラミング演習の教材は、プログラミングの初学者を対象に<b>Python</b>を用いた<br>\nプログラミングを演習方式で学ぶもので、京都大学学術情報リポジトリ（KURENAI）で<br>\n公開されている。本編のほか、横道にそれる話題をまとめたコラム編の2つの&nbsp;...",
+      "cacheId": "aKM_giB4ZbYJ",
+      "formattedUrl": "https://codezine.jp/article/detail/11999",
+      "htmlFormattedUrl": "https://codezine.jp/article/detail/11999",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtAcVg-5VsdWSBwSkqeRavSj0Qq2FzSofNMyTE9II7BJcJkVe9yvxmkk",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "person": [
+          {
+            "name": "CodeZine編集部"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-config": "browserconfig.xml",
+            "og:image": "https://codezine.jp/static/common/images/czlogo4fb_ogp.png?v2",
+            "cxenseparse:sho-author": "CodeZine編集部",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Codezine",
+            "cxenseparse:url": "https://codezine.jp/article/detail/11999",
+            "cxenseparse:sho-publish-m": "202002",
+            "og:description": "　京都大学は、Pythonによるプログラミング演習の教材を2月13日に一般公開した。",
+            "twitter:site": "codezine_jp",
+            "cxenseparse:recs:publishtime": "2020-02-20T18:50:00+09:00",
+            "cxenseparse:sho-publish-y": "2020",
+            "application-name": "CodeZine",
+            "og:type": "article",
+            "cxenseparse:pageclass": "article",
+            "og:title": "京都大学、Pythonによるプログラミング演習教材を無料公開",
+            "cxenseparse:sho-articlepath": "article/detail/11999",
+            "cxenseparse:sho-article-title": "京都大学、Pythonによるプログラミング演習教材を無料公開",
+            "cxenseparse:sho-article-type": "ニュース",
+            "cxenseparse:sho-publish-d": "20200220",
+            "cxenseparse:recs:image": "http://codezine.jp/static/common/images/no-image.png",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=1.0, minimum-scale=0.25",
+            "cxenseparse:sho-corner": "ニュース",
+            "cxenseparse:sho-corner-id": "1",
+            "og:url": "https://codezine.jp/article/detail/11999",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://codezine.jp/static/common/images/czlogo4fb_ogp.png?v2"
+          }
+        ],
+        "article": [
+          {
+            "articlebody": "プログラミング演習の教材は、プログラミングの初学者を対象にPythonを用いたプログラミングを演習方式で学ぶもので、京都大学学術情報リポジ...",
+            "description": "京都大学は、Pythonによるプログラミング演習の教材を2月13日に一般公開した。",
+            "headline": "京都大学、Pythonによるプログラミング演習教材を無料公開",
+            "datepublished": "2020/02/20 18:50"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "ニュース",
+            "name": "ニュース",
+            "position": "1"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>呼び出し画面</title>
+</head>
+
+<body>
+    <input type="button" id="openwindow" value="開く" />
+    <script>
+        const btn = document.getElementById('openwindow');
+        btn.addEventListener('click', () => {
+            window.open('sample_form.html');
+        });
+    </script>
+</body>
+
+</html>

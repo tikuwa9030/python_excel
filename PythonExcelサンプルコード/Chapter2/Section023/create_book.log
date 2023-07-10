@@ -1,0 +1,12 @@
+2020-07-16 19:52:04,622: [INFO] 処理を開始しました
+2020-07-16 19:52:04,622: [INFO] ブックを作成しました: 資料_1.xlsx
+2020-07-16 19:52:04,622: [INFO] ブックを作成しました: 資料_2.xlsx
+2020-07-16 19:52:04,638: [INFO] ブックを作成しました: 資料_3.xlsx
+2020-07-16 19:52:04,638: [INFO] 処理が終了しました
+2020-07-16 19:56:08,865: [INFO] 処理を開始しました
+2020-07-16 19:56:08,865: [ERROR] 例外が発生しました
+Traceback (most recent call last):
+File ".\logging_create_book.py", line 12, in <module>
+count = sys.argv[1]
+IndexError: list index out of range
+2020-07-16 19:56:08,865: [INFO] 処理が終了しました
